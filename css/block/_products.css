@@ -50,7 +50,7 @@
   border-bottom: 1px solid #222222;
 }
 
-.product-box {
+.products-box {
   display: flex;
   flex-direction: row;
   align-items: start;
